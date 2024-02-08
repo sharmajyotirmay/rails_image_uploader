@@ -1,24 +1,17 @@
-# README
+# Image API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Ruby on Rails API for managing user information and associated images.
 
-Things you may want to cover:
+## Prerequisites
 
-* Ruby version
+- Ruby 2.6.3
+- Rails 6.0
+- PostgreSQL (Make sure it's installed and running)
 
-* System dependencies
+## Getting Started
 
-* Configuration
+1. Clone the repository:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+   ```bash
+   git clone https://github.com/sharmajyotirmay/rails_image_uploader/tree/main
+   cd rails_image_uploader
